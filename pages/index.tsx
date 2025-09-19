@@ -9,7 +9,7 @@ const Home: React.FC = () => {
         className="h-screen bg-cover bg-center"
         style={{
           backgroundImage:
-            'url("https://themebeyond.com/html/movflx/img/bg/breadcrumb_bg.jpg")',
+            'url("https://i.pinimg.com/1200x/87/87/84/878784124fc912e9d865e9e6017fe422.jpg")',
         }}
       >
         <div className="bg-black bg-opacity-50 h-full flex flex-col justify-center items-center text-center">
@@ -30,7 +30,7 @@ const Home: React.FC = () => {
 
       <section className="py-16 px-8 md:px-44 bg-[#121018] text-center">
         <h2 className="text-3xl md:text-5xl font-semibold mb-8">
-          Join CineSeek Now!
+          Join CineMax Now!
         </h2>
         <p className="text-lg md:text-2xl mb-12">
           Sign up today to get access to the latest movies, exclusive content,
